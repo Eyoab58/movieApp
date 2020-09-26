@@ -28,3 +28,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+
+I couldn't really find a solution to extending the boarders of the image view so that the blue edges won't show. Now looking back at it, it would have been more wise to give it no background at all.
