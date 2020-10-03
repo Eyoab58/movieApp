@@ -1,32 +1,25 @@
 # movieApp
 # Flix
 
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
----
-
-## Flix Part 1
+## Flix Part 2
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
 #### REQUIRED (10pts)
-- [ ] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [ ] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [ ] (3pts) User can view the movie poster image for each movie.
+- [ ] (5pts) User can tap a cell to see more details about a particular movie.
+- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="http://g.recordit.co/WMuIXba9Eg.gif" width=250><br>
+<img src="http://g.recordit.co/27mXAxgroW.gif" width=250><br>
 
-### Notes
-Describe any challenges encountered while building the app.
 
-I couldn't really find a solution to extending the boarders of the image view so that the blue edges won't show. Now looking back at it, it would have been more wise to give it no background at all.
+
+Challenges of the project 
+I couldn't really find a solution to extending the boarders of the image view so that the blue edges won't show. Now looking back at it, it would have been more wise to give it no background at all. Alongside that the navigation tab for the superheros never really fit the screen completely well, especially on the right side.
